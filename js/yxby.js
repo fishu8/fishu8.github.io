@@ -2,7 +2,7 @@ const HTANDROID = ""; // Android
 const HTIOS = ""; // iOS
 
 const HTSPARE = ""; // 备用
-const ISSHOWSPARE = true;
+const ISSHOWSPARE = false;
 
 wechatOrQQBrowser();
 
